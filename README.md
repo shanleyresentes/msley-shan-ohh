@@ -1,2 +1,0 @@
-# msley-shan-ohh
-EDUCATIONAL PURPOSE ONLY 
