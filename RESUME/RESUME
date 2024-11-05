@@ -1,1 +1,233 @@
 
+<style>
+		
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 4px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+		
+		
+		
+		
+<body>
+    <body>
+<header>
+
+<h1 style= "text-align: center;">Resume</h1>
+</header>
+
+		<tr>
+		<td> <img src="C:\Users\Acer\Downloads\Telegram Desktop\photo_2024-08-30_22-42-47.jpg"" alt="mb on Right Side" style="float:right;" width="200px" height= "200px"> </td>
+		
+		</tr>
+
+	<table>
+		
+	<table style="width:100%">
+	    <tr>
+		<hr>
+		<b colspan="2">  PERSONAL INFORMATION </b>	
+		
+
+	    </tr>
+	
+ 	    <tr>
+		<td> Name:</td>
+		<td> Shanley R. Resentes </td>
+	    </tr>
+		<tr>
+		<td> Age:</td>
+		<td> 19 yrs. Old </td>
+	        </tr>
+
+		</tr>
+		<tr>
+		<td> Date of Birth:</td>
+		<td> October 19, 2004 </td>
+	        </tr>		
+			
+		
+		<tr>
+		<td> Address:</td>
+		<td> Zone 3, Bongoran, Oas, Albay </td>
+	    	</tr>	
+			
+ 	    <tr>
+		<td> Mobile Number:</td>
+		<td> 09075193156 </td>
+	    </tr>
+	<tr>
+		<td> Email Address:</td>
+		<td> shanleyresentes19@gmail.com</td>
+	</tr>
+	</table>
+	<br>
+	<br>
+
+	<table>
+	<table style="width:100%">
+	    <tr>
+		<b colspan="3">EDUCATIONAL BACKGROUND </b>
+		
+	    </tr>
+
+		<tr>
+		
+			<td colspan="1">Education Level</td>
+			<td>School Attended </td>
+			<td>Year Attended </td>
+			
+		</tr>	
+		
+
+
+
+	    <tr>
+		<td> College: </td>
+		<td> Bicol University Polangui </td>
+		<td> (2023-Present)
+	    </tr>
+
+	    <tr>
+		<td> High School: </td>
+		<td> Oas Polytechnic School </td>
+		<td> (2017-2023) </td>
+	    </tr>
+
+	    <tr>
+		<td> Elementary: </td>
+		<td> Celestino B. Redito Elem. School </td>
+		<td> (2011-2017) </td>
+	    </tr>
+	    
+	</table>
+	<br>
+	<br>
+
+	<table>
+	<table style="width:100%">
+	    <tr>
+		<b colspan="2"> SKILLS </b>
+	    </tr>
+
+	    <tr>
+		<td> Writing Poem or Song</td>
+		
+	    </tr>
+	    <tr>
+		<td> Creativity </td>
+	    </tr>
+	    <tr>
+		<td> Flexibility and Strength </td>
+	    </tr>
+	
+		<tr>
+		<td>  </td>
+	  	</tr>
+
+		<tr>
+		<td> Time Management  </td>
+	    	</tr>
+
+		<tr>
+		<td> Reading Skills </td>
+	    	</tr>
+		
+		<tr>
+		<td> Musically Inclined </td>
+		</tr>
+        
+		<tr>
+		<td> Playing Sport (Volleyball) </td>
+		</tr>
+		</table>
+		
+		<table>
+		<tr>
+		<td> Playing Musical Instrument </td>
+		</tr>
+		</table>
+
+	    
+	</table>
+
+	<br>
+	<br>
+
+<table>  
+
+<tr>
+<b> SEMINARS AND TRAININGS</b>
+</tr>
+
+<tr>
+<td>BU Polangui 2 Day Worshop </td>
+</tr>
+
+</table>
+
+<table>
+<tr>
+<td> Magkansion Youth Chorale Workshop </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td> Himoloan Sport Fest. Training </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td> Youth Comission On Chorale Team Building </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td> Parish Comission on Youth Projector Operator Training </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td> Peace and Development Forum Seminar - AFP of the Phil. </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td> Fire Prevention Month Seminar </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td> ROTC assembling M16 Calibre Training </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td> Basic Life Support Training </td>
+</tr>
+</table>
+
+	
+	
+    </body>
+</html>
